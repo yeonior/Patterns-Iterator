@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A2425164279EC510006528C1 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2425163279EC510006528C1 /* LinkedList.swift */; };
 		A29B0661279DD56000AFBBC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A29B0660279DD56000AFBBC5 /* AppDelegate.swift */; };
 		A29B0663279DD56000AFBBC5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A29B0662279DD56000AFBBC5 /* SceneDelegate.swift */; };
 		A29B0665279DD56000AFBBC5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A29B0664279DD56000AFBBC5 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A2425163279EC510006528C1 /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
 		A29B065D279DD56000AFBBC5 /* Patterns-Iterator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Patterns-Iterator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A29B0660279DD56000AFBBC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A29B0662279DD56000AFBBC5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				A29B0660279DD56000AFBBC5 /* AppDelegate.swift */,
 				A29B0662279DD56000AFBBC5 /* SceneDelegate.swift */,
+				A2425163279EC510006528C1 /* LinkedList.swift */,
 				A29B0664279DD56000AFBBC5 /* ViewController.swift */,
 				A29B0666279DD56000AFBBC5 /* Main.storyboard */,
 				A29B0669279DD56000AFBBC5 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			files = (
 				A29B0665279DD56000AFBBC5 /* ViewController.swift in Sources */,
 				A29B0661279DD56000AFBBC5 /* AppDelegate.swift in Sources */,
+				A2425164279EC510006528C1 /* LinkedList.swift in Sources */,
 				A29B0663279DD56000AFBBC5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
